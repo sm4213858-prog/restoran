@@ -1,0 +1,99 @@
+h1 {
+    background-color: #2D4A3E;
+    color: #FFF8E7;
+    text-align: center;
+    padding: 12px;
+  }
+  
+  a {
+    color: #2D4A3E;
+  }
+  
+  body {
+    background-color: #FFF8E7;
+  }
+  
+  /*kartu profil resto*/
+  div.kartu-profil {
+    background-color: #FFFFFF;
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 8px 10px rgba(45, 74, 62, 0.15);
+    text-align: center;
+  }
+  
+  div.kartu-profil img {
+    border-radius: 50%;
+    border: 4px solid #D4A373;
+  }
+  
+  .navigasi {
+    background-color: #FFFFFF;
+    padding: 20px;
+    text-align: center;
+    border-radius: 4px;
+  }
+  
+  .navigasi a {
+    text-decoration: none;
+  }
+  
+  .navigasi .aktif {
+    font-weight: bold;
+    color: #AC3C3C;
+  }
+  
+  div.kartu-kontak {
+    background-color: #ABDBEC;
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .tombol-medsos {
+    display: block;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    margin: 8px;
+    border-radius: 15px;
+  }
+  
+  .wa {
+    background-color: #25D3C0;
+  }
+  
+  .github {
+    background-color: #333333;
+  }
+  
+  .galeri-container {
+    text-align: center;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+  
+  .galeri-item {
+    width: 50%;
+    max-width: 180px;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: #fff;
+  }
+  
+  .galeri-item img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+  }
+  .galeri-item p{
+    padding: 0px;
+    line-height: 0.5;
+  }
